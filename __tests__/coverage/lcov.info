@@ -1,5 +1,5 @@
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/app.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/app.js
 FN:7,(anonymous_0)
 FN:14,(anonymous_1)
 FN:18,(anonymous_2)
@@ -24,7 +24,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/routes.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/routes.js
 FN:9,(anonymous_0)
 FNF:1
 FNH:1
@@ -43,7 +43,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/server.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/server.js
 FNF:0
 FNH:0
 DA:1,0
@@ -56,7 +56,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/app/models/User.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/app/models/User.js
 FN:4,(anonymous_0)
 FN:16,(anonymous_1)
 FN:25,(anonymous_2)
@@ -86,7 +86,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/app/models/index.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/app/models/index.js
 FN:18,(anonymous_0)
 FN:23,(anonymous_1)
 FN:28,(anonymous_2)
@@ -123,7 +123,7 @@ BRF:5
 BRH:4
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/config/database.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/config/database.js
 FNF:0
 FNH:0
 DA:1,2
@@ -138,7 +138,7 @@ BRF:4
 BRH:2
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/controllers/SessionController.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/controllers/SessionController.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -162,7 +162,7 @@ BRF:4
 BRH:3
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/database/migrations/20191124153029-create-users.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/database/migrations/20191124153029-create-users.js
 FN:4,(anonymous_0)
 FN:36,(anonymous_1)
 FNF:2
@@ -178,7 +178,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/home/kenev/Documentos/Projetos/pessoalProjects/auth-tdd-nodejs/src/middleware/auth.js
+SF:/home/kenev/Documentos/Projetos/pessoalProjects/node-test-jwt/src/middleware/auth.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
